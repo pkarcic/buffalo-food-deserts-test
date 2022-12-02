@@ -22,8 +22,8 @@ title: Mapping Urban Food Deserts
 email: pkarcic@gmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Food Deserts in Buffalo, New York
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/buffalo-food-deserts" # the subpath of your site, e.g. /blog
+url: "https://pkarcic.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: paulkarcic
 #github_username:  jekyll
 
