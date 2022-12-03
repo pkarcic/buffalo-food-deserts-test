@@ -19,6 +19,6 @@ Market location data was collected from the Yelp Fusion API using the [yelpr pac
 
 
 
-Public transportation service gap analysis is planned for future implementation using [ACS 2021 - Survey DP03](https://www.census.gov/acs/www/about/why-we-ask-each-question/commuting) for the city of Buffalo.   
+Public transportation service gap analysis is planned for future implementation using [ACS 2021 - Survey DP03](https://www.census.gov/acs/www/about/why-we-ask-each-question/commuting) for the city of Buffalo, inspired by the gap analysis process outlined by [Jiao and Dillivan (2013)](https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1054&context=jpt).
 
 
